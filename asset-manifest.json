@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactdarktheme/static/css/main.ffae92c9.chunk.css",
+    "main.js": "/Reactdarktheme/static/js/main.e5851a05.chunk.js",
+    "main.js.map": "/Reactdarktheme/static/js/main.e5851a05.chunk.js.map",
+    "runtime-main.js": "/Reactdarktheme/static/js/runtime-main.d1c3a4e7.js",
+    "runtime-main.js.map": "/Reactdarktheme/static/js/runtime-main.d1c3a4e7.js.map",
+    "static/css/2.818011ed.chunk.css": "/Reactdarktheme/static/css/2.818011ed.chunk.css",
+    "static/js/2.2b6fc7d1.chunk.js": "/Reactdarktheme/static/js/2.2b6fc7d1.chunk.js",
+    "static/js/2.2b6fc7d1.chunk.js.map": "/Reactdarktheme/static/js/2.2b6fc7d1.chunk.js.map",
+    "static/js/3.b024d0e0.chunk.js": "/Reactdarktheme/static/js/3.b024d0e0.chunk.js",
+    "static/js/3.b024d0e0.chunk.js.map": "/Reactdarktheme/static/js/3.b024d0e0.chunk.js.map",
+    "index.html": "/Reactdarktheme/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Reactdarktheme/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ffae92c9.chunk.css.map": "/Reactdarktheme/static/css/main.ffae92c9.chunk.css.map",
+    "static/js/2.2b6fc7d1.chunk.js.LICENSE.txt": "/Reactdarktheme/static/js/2.2b6fc7d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Reactdarktheme/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c3a4e7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2b6fc7d1.chunk.js",
+    "static/css/main.ffae92c9.chunk.css",
+    "static/js/main.e5851a05.chunk.js"
+  ]
+}
